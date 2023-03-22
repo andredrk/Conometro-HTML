@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+h1{
+    font-size: 100px;
+    padding: 15%;
+    height: 2em;
+    color: rgb(255, 255, 255);
+}
+
+div{
+    text-align: center;
+    background: linear-gradient(#fffb00,#000000e7);
+    height: 100vh;
+}
+
+button{
+    border-radius: 10px;
+    height: 2em;
+    width: 5em;
+    color: rgb(186, 245, 245);
+    border: none;
+    
+}
+button:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+.startButton{
+    background: rgb(20, 216, 20);
+}
+
+.pouseButton{
+    background-color: rgb(110, 109, 109);
+}
+
+.StopButton{
+    background-color: red;
+}
